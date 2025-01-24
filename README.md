@@ -26,15 +26,6 @@
 
 ---
 
-## 🔄 GitHub Stats:
-
-![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=perabathulavamshi&show_icons=true&theme=radical)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perabathulavamshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ## 📚 Featured Projects:
 
 ### 1. [**Face Mask Detection Using OpenCV**](https://github.com/perabathulavamshi/Face-Mask-Detection)
@@ -67,6 +58,15 @@
 - **IoT and Analytics by IBM**
 - **Machine Learning and Statistics by Coursera**
 - **Award-winning Robotics Projects** at IIT and BITS Hyderabad
+
+---
+
+## 🔄 GitHub Stats:
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perabathulavamshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
