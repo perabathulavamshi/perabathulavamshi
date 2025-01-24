@@ -1,66 +1,59 @@
-# Hi there 👋, I'm Vamshi Krishna Perabathula!
+Hi there 👋, I'm Vamshi Krishna Perabathula!
 
 ---
 
 ## 👨‍🎓 About Me:
 
-- 🎓 Master's student in **Data Science** at the **University of the Pacific**, San Francisco.
-- 🚀 Passionate about **Data Science**, **IoT**, **Machine Learning**, and **Robotics**.
-- 🔗 Currently working on projects involving **Machine Learning** and **Data Analytics and Processing**.
-- 💡 Skilled in **Python**, **R**, **SQL**, **C**, and **Machine Learning Algorithms**.
-- ✉ Reach me at: [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
+- Master's student in **Data Science** at the **University of the Pacific**, San Francisco.
+- Passionate about **Data Science**, **IoT**, **Machine Learning**, and **Robotics**.
+- Skilled in **Python**, **R**, **SQL**, **C**, and **Machine Learning Algorithms**.
+- Reach me at: [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
 
 ---
 
-## 🎨 My Technical Toolbox:
+## 🎨 Technical Toolbox:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
 
 ---
 
 ## 📚 Featured Projects:
 
-### 1. [**Face Mask Detection Using OpenCV**](https://github.com/perabathulavamshi/Face-Mask-Detection)
+### 1. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
+- **Tech Stack**: `Python`, `TensorFlow`, `OpenCV`
+- Built a real-time mask detection system trained on diverse datasets.
 
-- **Description**: Built a system using TensorFlow, Keras, and OpenCV to detect face masks during the COVID-19 pandemic.
-- **Tech Stack**: `Python`, `TensorFlow`, `Keras`, `OpenCV`
-- **Key Features**:
-  - Real-time detection
-  - Trained on diverse datasets
+### 2. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
+- **Tech Stack**: `Python`, `scikit-learn`
+- Predicted bike-sharing demand using machine learning.
 
-### 2. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
+### 3. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
+- **Tech Stack**: `Python`, `Pandas`
+- Modeled customer churn for banking using classification techniques.
 
-- **Description**: Raspberry Pi 3-based home security system leveraging machine learning for facial recognition.
-- **Tech Stack**: `Python`, `IoT`, `Raspberry Pi`
+### 4. [**Natural Language Processing**](https://github.com/perabathulavamshi/Natural-Lanuage-Processing)
+- **Tech Stack**: `Python`, `NLTK`
+- Performed NLP tasks like sentiment analysis and text classification.
 
-### 3. [**Autonomous Drone Take-Off and Landing**](https://github.com/perabathulavamshi/Autonomous-Drone-Takeoff)
+### 5. [**Autonomous Drone Navigation**](https://github.com/perabathulavamshi/Autonomous-Drone-Takeoff)
+- **Tech Stack**: `ROS`, `Gazebo`, `Python`
+- Developed a GPS-guided drone for delivery.
 
-- **Description**: Engineered a GPS-guided delivery drone with ROS, Gazebo, and QGroundControl for reliable navigation.
-- **Tech Stack**: `ROS`, `Gazebo`, `Python`, `Pixhawk`
+### 6. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
+- **Tech Stack**: `Python`, `Pandas`
+- Analyzed video game sales trends.
 
-### 4. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
-
-- **Description**: Performed sales trend analysis using Python.
-- **Tech Stack**: `Python`, `Pandas`, `Matplotlib`
+### 7. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
+- **Tech Stack**: `Python`, `PX4`
+- Created a hover script for drones with PX4 and MAVROS.
 
 ---
 
 ## 🔹 Certifications:
 
-- **IoT and Analytics by IBM**
-- **Machine Learning and Statistics by Coursera**
-- **Award-winning Robotics Projects** at IIT and BITS Hyderabad
+- IoT and Analytics by IBM
+- Machine Learning and Statistics by Coursera
+- Award-winning Robotics Projects at IIT and BITS Hyderabad
 
 ---
 
@@ -70,7 +63,7 @@
 
 ---
 
-## 📢 Contact Me:
+## 📢 Contact:
 
-- 📧 [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vk-perabathula/)
+- [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
+- [LinkedIn](https://www.linkedin.com/in/vk-perabathula/)
