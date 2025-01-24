@@ -9,3 +9,14 @@
 🔭 **Currently working on:** Machine Learning and IoT-based solutions  
 📫 **Reach me at:** [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)  
 🌐 [LinkedIn](https://www.linkedin.com/in/vk-perabathula/) | [Portfolio](#)
+
+
+
+### 💻 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
