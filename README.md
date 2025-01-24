@@ -1,4 +1,4 @@
-Hi there 👋, I'm Vamshi Krishna Perabathula!
+# Hi there 👋, I'm Vamshi Krishna Perabathula!
 
 ---
 
@@ -19,33 +19,29 @@ Hi there 👋, I'm Vamshi Krishna Perabathula!
 
 ## 📚 Featured Projects:
 
-### 1. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
-- **Tech Stack**: `Python`, `TensorFlow`, `OpenCV`
-- Built a real-time mask detection system trained on diverse datasets.
-
-### 2. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
+### 1. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
 - **Tech Stack**: `Python`, `scikit-learn`
 - Predicted bike-sharing demand using machine learning.
 
-### 3. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
+### 2. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
 - **Tech Stack**: `Python`, `Pandas`
 - Modeled customer churn for banking using classification techniques.
 
-### 4. [**Natural Language Processing**](https://github.com/perabathulavamshi/Natural-Lanuage-Processing)
+### 3. [**Natural Language Processing**](https://github.com/perabathulavamshi/Natural-Lanuage-Processing)
 - **Tech Stack**: `Python`, `NLTK`
 - Performed NLP tasks like sentiment analysis and text classification.
 
-### 5. [**Autonomous Drone Navigation**](https://github.com/perabathulavamshi/Autonomous-Drone-Takeoff)
-- **Tech Stack**: `ROS`, `Gazebo`, `Python`
-- Developed a GPS-guided drone for delivery.
-
-### 6. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
+### 4. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
 - **Tech Stack**: `Python`, `Pandas`
 - Analyzed video game sales trends.
 
-### 7. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
+### 5. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
 - **Tech Stack**: `Python`, `PX4`
 - Created a hover script for drones with PX4 and MAVROS.
+
+### 6. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
+- **Tech Stack**: `Python`, `IoT`, `Raspberry Pi`
+- Raspberry Pi-based home security system with facial recognition.
 
 ---
 
