@@ -41,7 +41,7 @@
 
 ### 6. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
 - **Tech Stack**: `Python`, `PX4`
-- Created a hover script for drones with PX4 and MAVROS.
+- Created a hover script for drones with PX4,QgroundControl and MAVROS.
 
 ### 7. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
 - **Tech Stack**: `Python`, `IoT`, `Raspberry Pi`
