@@ -35,11 +35,15 @@
 - **Tech Stack**: `Python`, `Pandas`
 - Analyzed video game sales trends.
 
-### 5. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
+### 5. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
+- **Tech Stack**: `Python`, `TensorFlow`, `OpenCV`
+- Built a real-time mask detection system trained on diverse datasets.
+
+### 6. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
 - **Tech Stack**: `Python`, `PX4`
 - Created a hover script for drones with PX4 and MAVROS.
 
-### 6. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
+### 7. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
 - **Tech Stack**: `Python`, `IoT`, `Raspberry Pi`
 - Raspberry Pi-based home security system with facial recognition.
 
