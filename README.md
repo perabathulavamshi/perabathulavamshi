@@ -7,8 +7,7 @@
 💻 Skilled in Python, R, SQL, and Machine Learning  
 
 🔭 **Currently working on:** Machine Learning and IoT-based solutions  
-📫 **Reach me at:** [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)  
-🌐 [LinkedIn](https://www.linkedin.com/in/vk-perabathula/) | [Portfolio](#)
+
 
 
 
@@ -28,5 +27,6 @@
 ## 📬 Let's Connect
 📧 [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)  
 🌐 [LinkedIn](https://www.linkedin.com/in/vk-perabathula/)  
+ [Portfolio](#)
 
 
