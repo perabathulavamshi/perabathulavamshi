@@ -8,7 +8,7 @@
 
 - 🎓 Master's student in **Data Science** at the **University of the Pacific**, San Francisco.
 - 🚀 Passionate about **Data Science**, **IoT**, **Machine Learning**, and **Robotics**.
-- 🔗 Currently working on projects involving **Machine Learning** and **IoT-based solutions**.
+- 🔗 Currently working on projects involving **Machine Learning** and **Data Analytics and Processing**.
 - 💡 Skilled in **Python**, **R**, **SQL**, and **Machine Learning Algorithms**.
 - ✉ Reach me at: [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
 
