@@ -49,7 +49,6 @@
 
 - **Description**: Raspberry Pi 3-based home security system leveraging machine learning for facial recognition.
 - **Tech Stack**: `Python`, `IoT`, `Raspberry Pi`
-- **Demo**: Coming soon!
 
 ### 3. [**Autonomous Drone Take-Off and Landing**](https://github.com/perabathulavamshi/Autonomous-Drone-Takeoff)
 
