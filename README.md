@@ -24,3 +24,9 @@
 ![Vamshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=perabathulavamshi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perabathulavamshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+## 📬 Let's Connect
+📧 [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)  
+🌐 [LinkedIn](https://www.linkedin.com/in/vk-perabathula/)  
+
+
