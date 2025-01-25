@@ -7,7 +7,7 @@
 - Master's student in **Data Science** at the **University of the Pacific**, San Francisco.
 - Passionate about **Data Science**, **IoT**, **Machine Learning**, and **Robotics**.
 - Skilled in **Python**, **R**, **SQL**, **C**, and **Machine Learning Algorithms**.
-- Reach me at: [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
+- Reach me at: [vamshikrish485@gmail.com](mailto:vamshikrish485@gmail.com)
 
 ---
 
