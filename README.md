@@ -29,7 +29,7 @@
 
 ### 5. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
 
-### 6. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offboard_PX4_Hover_python)
+### 6. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offbaord_PX4_Hover_python)
 
 ### 7. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
 
