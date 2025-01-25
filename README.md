@@ -51,5 +51,5 @@
 
 ## 📢 Contact:
 
-- [v_perabathula@u.pacific.edu](mailto:v_perabathula@u.pacific.edu)
+- [vamshikrish485@gmail.com](mailto:vamshikrish485@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vk-perabathula/)
