@@ -19,22 +19,21 @@
 
 ## 📚 Featured Projects:
 
-### 1. [**Data-Digitization-Cost-Tool-DigiCET**]
+### 1. [**Data-Digitization-Cost-Tool-DigiCET**](https://github.com/perabathulavamshi/Data-Digitization-Cost-Tool-DigiCET)
 
+### 2. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
 
-### 1. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
+### 3. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
 
-### 2. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
+### 4. [**Natural Language Processing**](https://github.com/perabathulavamshi/Natural-Lanuage-Processing)
 
-### 3. [**Natural Language Processing**](https://github.com/perabathulavamshi/Natural-Lanuage-Processing)
+### 5. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
 
-### 4. [**Video Game Sales Analysis**](https://github.com/perabathulavamshi/Video-game-sales-analysis)
+### 6. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
 
-### 5. [**Face Mask Detection**](https://github.com/perabathulavamshi/Face-Mask-Detection)
+### 7. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offbaord_PX4_Hover_python)
 
-### 6. [**Offboard PX4 Hover Function**](https://github.com/perabathulavamshi/Offbaord_PX4_Hover_python)
-
-### 7. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
+### 8. [**Smart Security System for Home**](https://github.com/perabathulavamshi/Smart-Security-System)
 
 ---
 
