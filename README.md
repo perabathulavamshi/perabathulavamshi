@@ -19,6 +19,9 @@
 
 ## 📚 Featured Projects:
 
+### 1. [**Data-Digitization-Cost-Tool-DigiCET**]
+
+
 ### 1. [**Bike Sharing Demand Prediction**](https://github.com/perabathulavamshi/Bike-Sharing-Demand-Prediction-System)
 
 ### 2. [**Predicting Customer Churn**](https://github.com/perabathulavamshi/Predicting-Customer--Churn-in-Banking)
